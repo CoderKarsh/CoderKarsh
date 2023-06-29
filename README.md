@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CoderKarsh
 - 👀 I’m interested in cool projects
-- 🌱 I’m currently learning Python language
+- 🌱 Studied Python in School, Now studing C++ and Web Dev (HTML+CSS)
 - 📫 How to reach me shreeut2704@gmail.com
 
 <!---
